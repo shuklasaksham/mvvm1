@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee Details</string>
+    <string name="name">P. Rahul</string>
+    <string name="desig">Senior Engineer I</string>
+    <string name="age">34</string>
+    <string name="area">Car Audio</string>
+    <string name="exp">10 Years</string>
+</resources>
